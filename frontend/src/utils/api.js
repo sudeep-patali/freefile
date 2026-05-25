@@ -1,4 +1,4 @@
-const BASE_URL = '/api';
+const BASE_URL = 'https://freefile-backend.onrender.com/api';
 
 function getToken() {
   return localStorage.getItem('freefile_token');

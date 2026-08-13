@@ -1,0 +1,1 @@
+Hello,This is a application where you can add all your daily remainders.
